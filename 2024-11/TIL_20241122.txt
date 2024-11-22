@@ -1,0 +1,22 @@
+# 11/21
+ - 한 것
+1. KT-AIVLE
+ - 6차 미니프로젝트
+    프롬프트 엔지니어링
+    추가적인 데이터셋 제작
+
+2. 캡스톤 디자인
+ - 졸업작품 보고서 작성
+
+
+# 11/22
+ - 할 것
+1. KT-AIVLE
+ - 1차 AIVLE Day
+    코딩테스트 
+    특강 - New Digital Experience
+    온라인 행사 참여
+
+2. SDC 2024 Korea 세션 다시보기
+ - [SDC24 Korea] On-Device AI : 생성형 AI 모델의 개발부터 기기 탑재까지
+ - [SDC24 Korea] 당신을 오픈소스 세계로 초대합니다
