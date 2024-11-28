@@ -16,4 +16,5 @@
   - 딥러닝 파이토치 교과서
     2.3. 실습 환경 설정
 
- 4. ThermalGaussian: Thermal 3D Gaussian Splatting
+ 4. 블로그 글 작성
+  - 졸업작품 관련
