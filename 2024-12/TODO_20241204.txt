@@ -1,0 +1,15 @@
+# 어제 한 것
+## Date : 12/03
+1. KT-AIVLE 
+ - SQL
+
+2. 블로그 글 작성
+  - 졸업작품 관련
+ 
+
+# 오늘 할 것
+## Date : 12/04
+1. KT-AIVLE 
+ - SQL
+
+2. PyTorch
