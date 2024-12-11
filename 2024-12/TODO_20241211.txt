@@ -1,0 +1,10 @@
+# 오늘 할 것
+## Date : 12/11
+1. 블로그 글 작성
+ - AI SUMMIT SEOUL 2024 컨퍼런스 후기
+
+2. 이미지 필터링
+ - PPT 자료 만들기
+
+3. KT-AIVLE
+ - Spring
