@@ -1,0 +1,17 @@
+# 어제 한 것
+1. 블로그 글 초안 작성
+ - AI SUMMIT SEOUL 2024 컨퍼런스 후기
+
+2. KT-AIVLE
+ - Spring
+
+# 오늘 할 것
+## Date : 12/12
+1. 블로그 글 초안 작성
+ - AI SUMMIT SEOUL 2024 컨퍼런스 후기
+
+2. KT-AIVLE
+ - Spring
+
+3. 이미지 필터링
+ - 발표자료 만들기, 코드 수정
