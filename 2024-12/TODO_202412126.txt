@@ -1,0 +1,4 @@
+# 오늘 할 것
+## Date : 12/16
+1. KT-AIVLE
+ - Spring
