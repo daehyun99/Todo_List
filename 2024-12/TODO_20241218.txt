@@ -1,0 +1,16 @@
+# 어제 한 것
+## Date : 12/17
+1. KT-AIVLE
+ - Spring
+ - Spring 복습
+
+2. 글 작성
+ - [HelloPY] 파이콘 공유회 회고 링크드인 게시물 초안
+
+
+# 오늘 할 것
+## Date : 12/18
+1. KT-AIVLE
+ - 7차 미니 프로젝트
+ - DB 예외처리 부분 추가
+ - Spring 복습
