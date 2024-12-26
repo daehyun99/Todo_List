@@ -9,7 +9,7 @@
 
 
 # 오늘 할 것
-## Date : 12/25
+## Date : 12/26
 1. KT-AIVLE
  - 7차 미니 프로젝트
  - Azure에 Docker 컨테이너 생성 및 배포
